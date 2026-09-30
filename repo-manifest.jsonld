@@ -8,7 +8,7 @@
     {
       "@id": "https://repolex.ai/r/anysphere/watcher/commit/99cf43b739b25bbd3538506dbc4e87a202f7af84",
       "git:hexsha": "99cf43b739b25bbd3538506dbc4e87a202f7af84",
-      "repolex:parseStatus": "metadata_complete",
+      "repolex:parseStatus": "ast_complete",
       "git:tagName": "master"
     },
     {
