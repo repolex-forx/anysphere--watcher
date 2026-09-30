@@ -8,8 +8,9 @@
     {
       "@id": "https://repolex.ai/r/anysphere/watcher/commit/99cf43b739b25bbd3538506dbc4e87a202f7af84",
       "git:hexsha": "99cf43b739b25bbd3538506dbc4e87a202f7af84",
-      "repolex:parseStatus": "enrich_complete",
-      "git:tagName": "master"
+      "repolex:parseStatus": "parsed",
+      "git:tagName": "master",
+      "repolex:parsedAt": "2026-09-30T19:11:02.100104+00:00"
     },
     {
       "@id": "https://repolex.ai/r/anysphere/watcher/commit/4b4389e750ff32c9c1f9feb149545d54cfd62557",
