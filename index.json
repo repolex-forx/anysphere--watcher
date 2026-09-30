@@ -1,0 +1,11 @@
+{
+  "org": "anysphere",
+  "repo": "watcher",
+  "versions": [
+    {
+      "commit": "99cf43b739b25bbd3538506dbc4e87a202f7af84",
+      "tag": "master",
+      "parsed_at": "2026-09-30T19:11:02.130026+00:00"
+    }
+  ]
+}
