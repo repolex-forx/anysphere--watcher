@@ -3,6 +3,11 @@
   "repo": "watcher",
   "versions": [
     {
+      "commit": "0ed1564ca45bd28440b383bb2fbf9d8f2274e49b",
+      "tag": "v2.5.0",
+      "parsed_at": "2026-10-01T07:29:22.352322+00:00"
+    },
+    {
       "commit": "99cf43b739b25bbd3538506dbc4e87a202f7af84",
       "tag": "master",
       "parsed_at": "2026-09-30T19:11:02.130026+00:00"
