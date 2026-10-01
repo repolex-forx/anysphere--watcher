@@ -159,7 +159,7 @@
     {
       "@id": "https://repolex.ai/r/anysphere/watcher/commit/0ed1564ca45bd28440b383bb2fbf9d8f2274e49b",
       "git:hexsha": "0ed1564ca45bd28440b383bb2fbf9d8f2274e49b",
-      "repolex:parseStatus": "pending",
+      "repolex:parseStatus": "metadata_complete",
       "git:tagName": "v2.5.0"
     }
   ]
