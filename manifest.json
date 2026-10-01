@@ -430,7 +430,9 @@
           "githubUrl": "git+https://github.com/prettier/prettier.git",
           "source": "build_file:package.json"
         }
-      ]
+      ],
+      "repolex": "aggregate/repolex/0ed1564ca45bd28440b383bb2fbf9d8f2274e49b/chunk-001.nq.gz",
+      "dep": "dep/0ed1564ca45bd28440b383bb2fbf9d8f2274e49b.nq.gz"
     }
   ],
   "commit": "commit/commit.nq.gz",

@@ -159,8 +159,9 @@
     {
       "@id": "https://repolex.ai/r/anysphere/watcher/commit/0ed1564ca45bd28440b383bb2fbf9d8f2274e49b",
       "git:hexsha": "0ed1564ca45bd28440b383bb2fbf9d8f2274e49b",
-      "repolex:parseStatus": "enrich_complete",
-      "git:tagName": "v2.5.0"
+      "repolex:parseStatus": "parsed",
+      "git:tagName": "v2.5.0",
+      "repolex:parsedAt": "2026-10-01T07:29:22.280496+00:00"
     }
   ]
 }
